@@ -1,0 +1,21 @@
+{
+  "name": "s-flat-dark",
+  "displayName": "S Flat Dark",
+  "description": "S Flat Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "S Flat Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/S Flat Dark-color-theme.json"
+      }
+    ]
+  }
+}
