@@ -2,6 +2,7 @@
   "name": "s-flat-dark",
   "displayName": "S Flat Dark",
   "description": "S Flat Dark Theme",
+  "publisher": "trungnttb",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
@@ -17,5 +18,8 @@
         "path": "./themes/S Flat Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/trungnttb/s-flat-dark"
   }
 }
